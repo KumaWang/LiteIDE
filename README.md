@@ -22,3 +22,5 @@ YOLO插件
 自动完成
 ![2021-05-24-20-30-34](https://user-images.githubusercontent.com/26686705/224465981-5e1dee62-b043-4039-a1e1-a8549018ea56.gif)
 
+AI编写代码
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.bilibili.com/video/BV1Ps4y1n7oE/)
