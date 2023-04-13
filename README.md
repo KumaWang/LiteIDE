@@ -40,5 +40,4 @@ YOLO插件
 AI编写代码
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/26686705/229078353-a65421e5-545f-42af-b252-59fb5b877e63.gif)
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/26686705/229078589-529388eb-560a-4c1e-86cf-29a92623406c.gif)
 
